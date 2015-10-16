@@ -3,8 +3,8 @@ require "language/go"
 class Cig < Formula
   desc "CLI app for checking the state of your git repositories"
   homepage "https://github.com/stevenjack/cig"
-  url "https://github.com/stevenjack/cig/archive/v0.1.5.tar.gz"
-  sha256 "545a4a8894e73c4152e0dcf5515239709537e0192629dc56257fe7cfc995da24"
+  url "https://github.com/stevenjack/cig/archive/v0.1.6.tar.gz"
+  sha256 "bbe7657b0178c42563c9dac849b50774879a9a863f28017102f22cba599cee6b"
   head "https://github.com/stevenjack/cig.git"
 
   bottle do
